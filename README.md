@@ -1,16 +1,12 @@
-# app_two
+# UPMarket
 
-A new Flutter project.
+Final project SIM2307
 
-## Getting Started
+Group D
 
-This project is a starting point for a Flutter application.
+# Group members
 
-A few resources to get you started if this is your first Flutter project:
+1. Muhammad Ilhan Naquib bin Kamarul Zaman (S31799)
+2. Iqma Aqilah bint Abdul Rahman (S31714)
+3. Azib Hariz bin Ahman Ilmi (S31800)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
