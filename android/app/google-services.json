@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275774480997",
+    "project_id": "upmarket-14e9b",
+    "storage_bucket": "upmarket-14e9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275774480997:android:3561d686289db039c05c8c",
+        "android_client_info": {
+          "package_name": "com.example.app_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275774480997-6djgef9ovbjvim0s078ebtn0rlt0f53v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPdmNG6q0zyLmXrj761cgaqV5TrTgGPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275774480997-6djgef9ovbjvim0s078ebtn0rlt0f53v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
