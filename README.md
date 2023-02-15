@@ -1,6 +1,8 @@
 # UPMarket
 
 Final project SIM2307
+Semester 4
+System Analysis and Design
 
 Group D
 
