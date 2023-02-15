@@ -1,14 +1,13 @@
 # UPMarket
 
-Final project SIM2307
-Semester 4 
+Final project SIM2307,
+Semester 4,
 System Analysis and Design
 
 # Project Description
 
 This is an app built to help students of UPMKB conduct their business. This is just the frontend of the app without any database
 
-Group D
 
 # Group members
 
